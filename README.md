@@ -36,10 +36,10 @@ compara cada anúncio com o **preço real de mercado** do modelo e avisa no Tele
 | Plano | Acesso | Preço |
 |---|:---:|:---:|
 | 1 dia | 24 horas | R$ 9,99 |
-| 7 dias | 7 dias | R$ 29,90 |
-| **30 dias** ⭐ | 30 dias | **R$ 59,90** |
-| 90 dias | 90 dias | R$ 149,90 |
-| 1 ano | 365 dias | R$ 479,90 |
+| 7 dias | 7 dias | R$ 19,90 |
+| **30 dias** ⭐ | 30 dias | **R$ 39,90** |
+| 90 dias | 90 dias | R$ 99,90 |
+| 1 ano | 365 dias | R$ 299,90 |
 
 PIX com liberação na hora · sem renovação automática · entrada no canal VIP aprovada pelo bot após o pagamento.
 
