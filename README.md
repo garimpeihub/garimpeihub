@@ -1,55 +1,60 @@
+<a href="https://garimpei.sbs"><img src="assets/banner.png" alt="Garimpei — placas de vídeo usadas abaixo do preço, em tempo real" width="100%" /></a>
+
 <div align="center">
 
-<img src="https://garimpei.sbs/favicon.svg" width="88" alt="Garimpei" />
+[![Site](https://img.shields.io/badge/garimpei.sbs-F5B301?style=for-the-badge&logo=googlechrome&logoColor=1C1917)](https://garimpei.sbs)
+[![Bot no Telegram](https://img.shields.io/badge/@Garimpeiofc__bot-1C1917?style=for-the-badge&logo=telegram&logoColor=F5B301)](https://t.me/Garimpeiofc_bot)
+[![Cupons](https://img.shields.io/badge/cupons-D9F99D?style=for-the-badge&logo=ticktick&logoColor=365314)](https://garimpei.sbs/cupons)
 
-# garimpei ⛏️
-
-### placas de vídeo usadas abaixo do preço, achadas em tempo real
-
-**OLX · Mercado Livre · Enjoei** — varridos a cada minuto, comparados com o preço real de mercado,
-avisados no Telegram em segundos.
-
-[![site](https://img.shields.io/badge/garimpei.sbs-F5B301?style=for-the-badge&logo=googlechrome&logoColor=1C1917)](https://garimpei.sbs)
-[![telegram](https://img.shields.io/badge/bot%20no%20telegram-1C1917?style=for-the-badge&logo=telegram&logoColor=F5B301)](https://t.me/GarimpeiBot)
+**Achou, garimpei!** ⛏️
 
 </div>
 
 ---
 
-## achou, garimpei!
+### 🔎 O que é o Garimpei
 
-Placa boa e barata dura minutos. Enquanto você dorme, trabalha ou joga, o Garimpei:
+Placa de vídeo boa e barata some em minutos. O Garimpei varre **OLX, Mercado Livre e Enjoei** a cada minuto,
+compara cada anúncio com o **preço real de mercado** do modelo e avisa no Telegram, com o link direto, em segundos.
 
-- 🔎 **garimpa** RTX 3060, 4060, 4070, 5060, 5070, RX 6600 e mais 40 modelos em três marketplaces
-- 📊 **compara** cada anúncio com a mediana real de preço do modelo (não com achismo)
-- 🔥 **classifica** — garimpo, bom preço, preço justo… ou ⚠️ **suspeito** (golpe, defeito, só a caixa)
-- ⚡ **avisa** no grupo VIP do Telegram com o link direto, em segundos
-- 🎯 **radar pessoal** — "me avisa quando aparecer RTX 4060 até R$ 1.500 em SP"
-- 🎟️ **cupons** de lojas garimpados o dia todo
+| | |
+|---|---|
+| 🔥 **Garimpo** | 25% ou mais abaixo do preço normal |
+| 💎 **Bom preço** | entre 12% e 25% abaixo |
+| ✅ **Preço justo** | dentro do mercado |
+| ⚠️ **Suspeito** | barato demais: golpe, defeito ou só a caixa |
 
-## planos
+### 🎯 Para quem quer comprar
 
-| | dias | preço |
+- **RTX 3060, 4060, 4070, 5060, 5070**, RX 6600 e mais de 40 modelos
+- **Termômetro de preço**: menor preço e mediana dos últimos 30 dias de cada placa
+- **Radar pessoal**: "me avisa quando aparecer RTX 4060 até R$ 1.500 em SP"
+- **Cupons** de lojas de informática garimpados o dia todo
+
+### 💳 Planos
+
+| Plano | Acesso | Preço |
 |---|:---:|:---:|
-| Passe 7 dias | 7 | R$ 4,90 |
-| **Garimpeiro** | 30 | **R$ 9,90** |
-| Garimpeiro 90 | 90 | R$ 24,90 |
-| Garimpeiro Ouro | 365 | R$ 79,90 |
+| Passe 7 dias | 7 dias | R$ 4,90 |
+| **Garimpeiro** ⭐ | 30 dias | **R$ 9,90** |
+| Garimpeiro 90 | 90 dias | R$ 24,90 |
+| Garimpeiro Ouro | 365 dias | R$ 79,90 |
 
-PIX, liberação na hora, sem renovação automática.
+PIX com liberação na hora · sem renovação automática · entrada no grupo VIP aprovada pelo bot após o pagamento.
 
-## como é feito
+### ⚙️ Como é feito
 
 <p>
-<img src="https://img.shields.io/badge/React_19-1C1917?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Cloudflare_Workers-1C1917?style=flat-square&logo=cloudflare" />
-<img src="https://img.shields.io/badge/Supabase-1C1917?style=flat-square&logo=supabase" />
-<img src="https://img.shields.io/badge/Tailwind_4-1C1917?style=flat-square&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Telegram_Bot-1C1917?style=flat-square&logo=telegram" />
-<img src="https://img.shields.io/badge/TypeScript-1C1917?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/React_19-1C1917?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-1C1917?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_4-1C1917?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-1C1917?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/Supabase-1C1917?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/Telegram_Bot-1C1917?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+<img src="https://img.shields.io/badge/PIX-1C1917?style=flat-square&logo=pix&logoColor=32BCAD" alt="PIX" />
 </p>
 
-Serverless na borda, banco com RLS, tempo real via Supabase Realtime e zero servidor para manter.
+Serverless na borda · banco com RLS · tempo real com Supabase Realtime · rate limit e proteção anti-SSRF · zero servidor para manter.
 
 ---
 
