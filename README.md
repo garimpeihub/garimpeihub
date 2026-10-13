@@ -40,7 +40,7 @@ compara cada anúncio com o **preço real de mercado** do modelo e avisa no Tele
 | Garimpeiro 90 | 90 dias | R$ 24,90 |
 | Garimpeiro Ouro | 365 dias | R$ 79,90 |
 
-PIX com liberação na hora · sem renovação automática · entrada no grupo VIP aprovada pelo bot após o pagamento.
+PIX com liberação na hora · sem renovação automática · entrada no canal VIP aprovada pelo bot após o pagamento.
 
 ### ⚙️ Como é feito
 
