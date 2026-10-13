@@ -59,4 +59,4 @@ Serverless na borda · banco com RLS · tempo real com Supabase Realtime · rate
 
 ---
 
-<sub>O Garimpei não é afiliado à OLX, ao Mercado Livre nem à Enjoei. A compra é feita direto com o vendedor — use sempre o pagamento protegido de cada plataforma.</sub>
+<sub>O Garimpei não é afiliado aos sites de anúncios. A compra é feita direto com o vendedor — use sempre o pagamento protegido de cada plataforma.</sub>
