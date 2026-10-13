@@ -14,7 +14,7 @@
 
 ### 🔎 O que é o Garimpei
 
-Placa de vídeo boa e barata some em minutos. O Garimpei varre **OLX, Mercado Livre e Enjoei** a cada minuto,
+Placa de vídeo boa e barata some em minutos. O Garimpei varre os **principais sites de anúncios do Brasil** a cada minuto,
 compara cada anúncio com o **preço real de mercado** do modelo e avisa no Telegram, com o link direto, em segundos.
 
 | | |
@@ -35,10 +35,11 @@ compara cada anúncio com o **preço real de mercado** do modelo e avisa no Tele
 
 | Plano | Acesso | Preço |
 |---|:---:|:---:|
-| Passe 7 dias | 7 dias | R$ 4,90 |
-| **Garimpeiro** ⭐ | 30 dias | **R$ 9,90** |
-| Garimpeiro 90 | 90 dias | R$ 24,90 |
-| Garimpeiro Ouro | 365 dias | R$ 79,90 |
+| 1 dia | 24 horas | R$ 9,99 |
+| 7 dias | 7 dias | R$ 29,90 |
+| **30 dias** ⭐ | 30 dias | **R$ 59,90** |
+| 90 dias | 90 dias | R$ 149,90 |
+| 1 ano | 365 dias | R$ 479,90 |
 
 PIX com liberação na hora · sem renovação automática · entrada no canal VIP aprovada pelo bot após o pagamento.
 
