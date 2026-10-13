@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Site](https://img.shields.io/badge/garimpei.sbs-F5B301?style=for-the-badge&logo=googlechrome&logoColor=1C1917)](https://garimpei.sbs)
-[![Bot no Telegram](https://img.shields.io/badge/@Garimpeiofc__bot-1C1917?style=for-the-badge&logo=telegram&logoColor=F5B301)](https://t.me/Garimpeiofc_bot)
+[![Site](https://img.shields.io/badge/garimpei.sbs-5A30BE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://garimpei.sbs)
+[![Bot no Telegram](https://img.shields.io/badge/@Garimpeiofc__bot-1C1917?style=for-the-badge&logo=telegram&logoColor=C9B8FF)](https://t.me/Garimpeiofc_bot)
 [![Cupons](https://img.shields.io/badge/cupons-D9F99D?style=for-the-badge&logo=ticktick&logoColor=365314)](https://garimpei.sbs/cupons)
 
 **Achou, garimpei!** ⛏️
