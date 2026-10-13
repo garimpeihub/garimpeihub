@@ -1,4 +1,4 @@
-<a href="https://garimpei.sbs"><img src="assets/banner.png" alt="Garimpei — placas de vídeo usadas abaixo do preço, em tempo real" width="100%" /></a>
+<a href="https://garimpei.sbs"><img src="assets/capa.jpg" alt="Garimpei — placas de vídeo usadas abaixo do preço, em tempo real" width="100%" /></a>
 
 <div align="center">
 
